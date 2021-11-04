@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/BrotRector)
-- Twitter [@your-twitter](https://twitter.com/RectorBrot)
+- GitHub [@BrotRector](https://github.com/BrotRector)
+- Twitter [@RectorBrot](https://twitter.com/RectorBrot)
